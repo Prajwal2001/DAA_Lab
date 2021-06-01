@@ -1,0 +1,2 @@
+module daa_Lab {
+}
